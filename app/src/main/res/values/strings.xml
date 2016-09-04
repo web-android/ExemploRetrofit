@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExemploRetrofit</string>
+    <string name="cidade">City</string>
+    <string name="status">status</string>
+    <string name="humidade">Humidity</string>
+    <string name="pressao">Pressure</string>
+</resources>
